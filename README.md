@@ -13,6 +13,8 @@ Thank You :)
 
 ## Screenshots
 
-![ScreenShot](https://github.com/Dacrron/BookStore_Management_Backend/blob/main/Snaps/BookPage.png)
-
-
+![HomePage](https://github.com/Dacrron/BookStore_Management_Backend/blob/main/Snaps/Homepage.png)
+![BookPage](https://github.com/Dacrron/BookStore_Management_Backend/blob/main/Snaps/BookPage.png)
+![CreatePage](https://github.com/Dacrron/BookStore_Management_Backend/blob/main/Snaps/CreatePage.png)
+![RegistrationPage](https://github.com/Dacrron/BookStore_Management_Backend/blob/main/Snaps/RegisterationPage.png)
+![LoginPage](https://github.com/Dacrron/BookStore_Management_Backend/blob/main/Snaps/LoginPage.png)
