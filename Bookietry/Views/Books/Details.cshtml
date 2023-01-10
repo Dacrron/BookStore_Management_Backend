@@ -1,0 +1,48 @@
+﻿@model Bookietry.Models.Book
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Book</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Book_name)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Book_name)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Book_categ)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Book_categ)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Desc)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Desc)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Author_name)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Author_name)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.lang)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.lang)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.Book_Id">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

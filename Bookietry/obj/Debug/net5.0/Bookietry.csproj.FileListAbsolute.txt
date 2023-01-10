@@ -1,0 +1,1857 @@
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\appsettings.Development.json
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\appsettings.json
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\Bookietry.StaticWebAssets.xml
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\Bookietry.exe
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\Bookietry.deps.json
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\Bookietry.runtimeconfig.json
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\Bookietry.runtimeconfig.dev.json
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\Bookietry.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\ref\Bookietry.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\Bookietry.pdb
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Server.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Web.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cors.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Features.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Identity.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Metadata.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Rewrite.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Session.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebSockets.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.CSharp.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Memory.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Json.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.Http.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Console.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Debug.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.ObjectPool.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.Primitives.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.WebEncoders.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.JSInterop.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Net.Http.Headers.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.VisualBasic.Core.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.VisualBasic.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Win32.Primitives.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Win32.Registry.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\mscorlib.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\netstandard.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.AppContext.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Buffers.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Collections.Concurrent.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Collections.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Collections.Immutable.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Collections.NonGeneric.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Collections.Specialized.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.ComponentModel.Annotations.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.ComponentModel.DataAnnotations.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.ComponentModel.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.ComponentModel.EventBasedAsync.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.ComponentModel.Primitives.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.ComponentModel.TypeConverter.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Configuration.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Console.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Core.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Data.Common.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Data.DataSetExtensions.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Data.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Diagnostics.Contracts.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Diagnostics.Debug.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Diagnostics.EventLog.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Diagnostics.FileVersionInfo.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Diagnostics.Process.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Diagnostics.StackTrace.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Diagnostics.Tools.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Diagnostics.TraceSource.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Diagnostics.Tracing.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Drawing.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Drawing.Primitives.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Dynamic.Runtime.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Formats.Asn1.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Globalization.Calendars.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Globalization.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Globalization.Extensions.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.IO.Compression.Brotli.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.IO.Compression.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.IO.Compression.FileSystem.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.IO.Compression.ZipFile.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.IO.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.IO.FileSystem.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.IO.FileSystem.DriveInfo.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.IO.FileSystem.Primitives.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.IO.FileSystem.Watcher.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.IO.IsolatedStorage.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.IO.MemoryMappedFiles.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.IO.Pipelines.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.IO.Pipes.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.IO.UnmanagedMemoryStream.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Linq.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Linq.Expressions.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Linq.Parallel.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Linq.Queryable.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Memory.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Net.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Net.Http.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Net.Http.Json.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Net.HttpListener.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Net.Mail.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Net.NameResolution.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Net.NetworkInformation.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Net.Ping.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Net.Primitives.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Net.Requests.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Net.Security.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Net.ServicePoint.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Net.Sockets.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Net.WebClient.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Net.WebHeaderCollection.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Net.WebProxy.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Net.WebSockets.Client.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Net.WebSockets.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Numerics.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Numerics.Vectors.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.ObjectModel.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Reflection.DispatchProxy.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Reflection.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Reflection.Emit.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Reflection.Emit.ILGeneration.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Reflection.Emit.Lightweight.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Reflection.Extensions.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Reflection.Metadata.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Reflection.Primitives.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Reflection.TypeExtensions.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Resources.Reader.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Resources.ResourceManager.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Resources.Writer.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.VisualC.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Runtime.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Runtime.Extensions.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Runtime.Handles.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Runtime.InteropServices.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Runtime.Intrinsics.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Runtime.Loader.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Runtime.Numerics.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Runtime.Serialization.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Runtime.Serialization.Formatters.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Runtime.Serialization.Json.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Runtime.Serialization.Primitives.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Runtime.Serialization.Xml.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Security.AccessControl.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Security.Claims.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Security.Cryptography.Algorithms.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Security.Cryptography.Cng.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Security.Cryptography.Csp.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Security.Cryptography.Encoding.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Security.Cryptography.Primitives.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Security.Cryptography.X509Certificates.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Security.Cryptography.Xml.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Security.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Security.Permissions.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Security.Principal.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Security.Principal.Windows.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Security.SecureString.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.ServiceModel.Web.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.ServiceProcess.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Text.Encoding.CodePages.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Text.Encoding.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Text.Encoding.Extensions.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Text.Encodings.Web.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Text.Json.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Text.RegularExpressions.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Threading.Channels.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Threading.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Threading.Overlapped.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Threading.Tasks.Dataflow.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Threading.Tasks.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Threading.Tasks.Extensions.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Threading.Tasks.Parallel.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Threading.Thread.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Threading.ThreadPool.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Threading.Timer.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Transactions.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Transactions.Local.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.ValueTuple.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Web.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Web.HttpUtility.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Windows.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Windows.Extensions.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Xml.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Xml.Linq.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Xml.ReaderWriter.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Xml.Serialization.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Xml.XDocument.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Xml.XmlDocument.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Xml.XmlSerializer.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Xml.XPath.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Xml.XPath.XDocument.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\refs\WindowsBase.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\Bookietry.Views.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\Bookietry.Views.pdb
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\Humanizer.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\Newtonsoft.Json.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\System.Runtime.Caching.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Try\Bookietry\Bookietry\obj\Debug\net5.0\Bookietry.csproj.AssemblyReference.cache
+F:\Try\Bookietry\Bookietry\obj\Debug\net5.0\Bookietry.GeneratedMSBuildEditorConfig.editorconfig
+F:\Try\Bookietry\Bookietry\obj\Debug\net5.0\Bookietry.AssemblyInfoInputs.cache
+F:\Try\Bookietry\Bookietry\obj\Debug\net5.0\Bookietry.AssemblyInfo.cs
+F:\Try\Bookietry\Bookietry\obj\Debug\net5.0\Bookietry.csproj.CoreCompileInputs.cache
+F:\Try\Bookietry\Bookietry\obj\Debug\net5.0\Bookietry.MvcApplicationPartsAssemblyInfo.cs
+F:\Try\Bookietry\Bookietry\obj\Debug\net5.0\Bookietry.MvcApplicationPartsAssemblyInfo.cache
+F:\Try\Bookietry\Bookietry\obj\Debug\net5.0\Bookietry.RazorAssemblyInfo.cache
+F:\Try\Bookietry\Bookietry\obj\Debug\net5.0\Bookietry.RazorAssemblyInfo.cs
+F:\Try\Bookietry\Bookietry\obj\Debug\net5.0\staticwebassets\Bookietry.StaticWebAssets.Manifest.cache
+F:\Try\Bookietry\Bookietry\obj\Debug\net5.0\staticwebassets\Bookietry.StaticWebAssets.xml
+F:\Try\Bookietry\Bookietry\obj\Debug\net5.0\scopedcss\bundle\Bookietry.styles.css
+F:\Try\Bookietry\Bookietry\obj\Debug\net5.0\Bookietry.TagHelpers.input.cache
+F:\Try\Bookietry\Bookietry\obj\Debug\net5.0\Bookietry.TagHelpers.output.cache
+F:\Try\Bookietry\Bookietry\obj\Debug\net5.0\Bookietry.RazorCoreGenerate.cache
+F:\Try\Bookietry\Bookietry\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+F:\Try\Bookietry\Bookietry\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+F:\Try\Bookietry\Bookietry\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+F:\Try\Bookietry\Bookietry\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+F:\Try\Bookietry\Bookietry\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\Try\Bookietry\Bookietry\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+F:\Try\Bookietry\Bookietry\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\Try\Bookietry\Bookietry\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+F:\Try\Bookietry\Bookietry\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+F:\Try\Bookietry\Bookietry\obj\Debug\net5.0\Bookietry.RazorTargetAssemblyInfo.cache
+F:\Try\Bookietry\Bookietry\obj\Debug\net5.0\Bookietry.RazorTargetAssemblyInfo.cs
+F:\Try\Bookietry\Bookietry\obj\Debug\net5.0\Bookietry.Views.pdb
+F:\Try\Bookietry\Bookietry\obj\Debug\net5.0\Bookietry.csproj.CopyComplete
+F:\Try\Bookietry\Bookietry\obj\Debug\net5.0\Bookietry.dll
+F:\Try\Bookietry\Bookietry\obj\Debug\net5.0\ref\Bookietry.dll
+F:\Try\Bookietry\Bookietry\obj\Debug\net5.0\Bookietry.pdb
+F:\Try\Bookietry\Bookietry\obj\Debug\net5.0\Bookietry.genruntimeconfig.cache
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\System.Composition.Convention.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\System.Composition.Hosting.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\System.Composition.Runtime.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\System.Composition.TypedParts.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+F:\Try\Bookietry\Bookietry\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+F:\Try\Bookietry\Bookietry\obj\Debug\net5.0\Razor\Views\Books\Create.cshtml.g.cs
+F:\Try\Bookietry\Bookietry\obj\Debug\net5.0\Razor\Views\Books\Delete.cshtml.g.cs
+F:\Try\Bookietry\Bookietry\obj\Debug\net5.0\Razor\Views\Books\Details.cshtml.g.cs
+F:\Try\Bookietry\Bookietry\obj\Debug\net5.0\Razor\Views\Books\Edit.cshtml.g.cs
+F:\Try\Bookietry\Bookietry\obj\Debug\net5.0\Razor\Views\Books\Index.cshtml.g.cs
+F:\Try\Bookietry\Bookietry\obj\Debug\net5.0\Razor\Views\BooksSellers\Create.cshtml.g.cs
+F:\Try\Bookietry\Bookietry\obj\Debug\net5.0\Razor\Views\BooksSellers\Delete.cshtml.g.cs
+F:\Try\Bookietry\Bookietry\obj\Debug\net5.0\Razor\Views\BooksSellers\Details.cshtml.g.cs
+F:\Try\Bookietry\Bookietry\obj\Debug\net5.0\Razor\Views\BooksSellers\Edit.cshtml.g.cs
+F:\Try\Bookietry\Bookietry\obj\Debug\net5.0\Razor\Views\BooksSellers\Index.cshtml.g.cs
+F:\Try\Bookietry\Bookietry\obj\Debug\net5.0\Razor\Views\Purchases\Create.cshtml.g.cs
+F:\Try\Bookietry\Bookietry\obj\Debug\net5.0\Razor\Views\Purchases\Delete.cshtml.g.cs
+F:\Try\Bookietry\Bookietry\obj\Debug\net5.0\Razor\Views\Purchases\Details.cshtml.g.cs
+F:\Try\Bookietry\Bookietry\obj\Debug\net5.0\Razor\Views\Purchases\Edit.cshtml.g.cs
+F:\Try\Bookietry\Bookietry\obj\Debug\net5.0\Razor\Views\Purchases\Index.cshtml.g.cs
+F:\Try\Bookietry\Bookietry\obj\Debug\net5.0\Razor\Views\Invoices\Create.cshtml.g.cs
+F:\Try\Bookietry\Bookietry\obj\Debug\net5.0\Razor\Views\Invoices\Delete.cshtml.g.cs
+F:\Try\Bookietry\Bookietry\obj\Debug\net5.0\Razor\Views\Invoices\Details.cshtml.g.cs
+F:\Try\Bookietry\Bookietry\obj\Debug\net5.0\Razor\Views\Invoices\Edit.cshtml.g.cs
+F:\Try\Bookietry\Bookietry\obj\Debug\net5.0\Razor\Views\Invoices\Index.cshtml.g.cs
+F:\Try\Bookietry\Bookietry\obj\Debug\net5.0\Razor\Views\Inventories\Create.cshtml.g.cs
+F:\Try\Bookietry\Bookietry\obj\Debug\net5.0\Razor\Views\Inventories\Delete.cshtml.g.cs
+F:\Try\Bookietry\Bookietry\obj\Debug\net5.0\Razor\Views\Inventories\Details.cshtml.g.cs
+F:\Try\Bookietry\Bookietry\obj\Debug\net5.0\Razor\Views\Inventories\Edit.cshtml.g.cs
+F:\Try\Bookietry\Bookietry\obj\Debug\net5.0\Razor\Views\Inventories\Index.cshtml.g.cs
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\appsettings.Development.json
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\appsettings.json
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\Bookietry.StaticWebAssets.xml
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\Bookietry.exe
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\Bookietry.deps.json
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\Bookietry.runtimeconfig.json
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\Bookietry.runtimeconfig.dev.json
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\Bookietry.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\ref\Bookietry.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\Bookietry.pdb
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Server.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Web.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cors.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Features.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Identity.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Metadata.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Rewrite.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Session.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebSockets.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.CSharp.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Memory.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Json.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.Http.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Console.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Debug.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.ObjectPool.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.Primitives.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.WebEncoders.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.JSInterop.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Net.Http.Headers.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.VisualBasic.Core.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.VisualBasic.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Win32.Primitives.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Win32.Registry.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\mscorlib.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\netstandard.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.AppContext.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Buffers.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Collections.Concurrent.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Collections.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Collections.Immutable.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Collections.NonGeneric.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Collections.Specialized.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.ComponentModel.Annotations.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.ComponentModel.DataAnnotations.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.ComponentModel.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.ComponentModel.EventBasedAsync.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.ComponentModel.Primitives.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.ComponentModel.TypeConverter.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Configuration.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Console.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Core.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Data.Common.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Data.DataSetExtensions.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Data.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Diagnostics.Contracts.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Diagnostics.Debug.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Diagnostics.EventLog.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Diagnostics.FileVersionInfo.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Diagnostics.Process.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Diagnostics.StackTrace.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Diagnostics.Tools.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Diagnostics.TraceSource.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Diagnostics.Tracing.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Drawing.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Drawing.Primitives.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Dynamic.Runtime.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Formats.Asn1.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Globalization.Calendars.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Globalization.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Globalization.Extensions.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.IO.Compression.Brotli.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.IO.Compression.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.IO.Compression.FileSystem.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.IO.Compression.ZipFile.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.IO.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.IO.FileSystem.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.IO.FileSystem.DriveInfo.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.IO.FileSystem.Primitives.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.IO.FileSystem.Watcher.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.IO.IsolatedStorage.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.IO.MemoryMappedFiles.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.IO.Pipelines.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.IO.Pipes.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.IO.UnmanagedMemoryStream.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Linq.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Linq.Expressions.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Linq.Parallel.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Linq.Queryable.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Memory.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Net.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Net.Http.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Net.Http.Json.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Net.HttpListener.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Net.Mail.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Net.NameResolution.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Net.NetworkInformation.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Net.Ping.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Net.Primitives.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Net.Requests.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Net.Security.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Net.ServicePoint.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Net.Sockets.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Net.WebClient.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Net.WebHeaderCollection.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Net.WebProxy.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Net.WebSockets.Client.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Net.WebSockets.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Numerics.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Numerics.Vectors.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.ObjectModel.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Reflection.DispatchProxy.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Reflection.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Reflection.Emit.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Reflection.Emit.ILGeneration.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Reflection.Emit.Lightweight.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Reflection.Extensions.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Reflection.Metadata.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Reflection.Primitives.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Reflection.TypeExtensions.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Resources.Reader.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Resources.ResourceManager.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Resources.Writer.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.VisualC.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Runtime.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Runtime.Extensions.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Runtime.Handles.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Runtime.InteropServices.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Runtime.Intrinsics.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Runtime.Loader.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Runtime.Numerics.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Runtime.Serialization.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Runtime.Serialization.Formatters.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Runtime.Serialization.Json.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Runtime.Serialization.Primitives.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Runtime.Serialization.Xml.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Security.AccessControl.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Security.Claims.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Security.Cryptography.Algorithms.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Security.Cryptography.Cng.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Security.Cryptography.Csp.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Security.Cryptography.Encoding.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Security.Cryptography.Primitives.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Security.Cryptography.X509Certificates.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Security.Cryptography.Xml.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Security.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Security.Permissions.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Security.Principal.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Security.Principal.Windows.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Security.SecureString.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.ServiceModel.Web.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.ServiceProcess.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Text.Encoding.CodePages.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Text.Encoding.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Text.Encoding.Extensions.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Text.Encodings.Web.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Text.Json.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Text.RegularExpressions.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Threading.Channels.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Threading.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Threading.Overlapped.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Threading.Tasks.Dataflow.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Threading.Tasks.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Threading.Tasks.Extensions.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Threading.Tasks.Parallel.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Threading.Thread.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Threading.ThreadPool.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Threading.Timer.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Transactions.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Transactions.Local.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.ValueTuple.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Web.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Web.HttpUtility.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Windows.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Windows.Extensions.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Xml.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Xml.Linq.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Xml.ReaderWriter.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Xml.Serialization.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Xml.XDocument.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Xml.XmlDocument.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Xml.XmlSerializer.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Xml.XPath.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Xml.XPath.XDocument.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\refs\WindowsBase.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\Bookietry.Views.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\Bookietry.Views.pdb
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\Humanizer.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\Newtonsoft.Json.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\System.Composition.Convention.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\System.Composition.Hosting.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\System.Composition.Runtime.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\System.Composition.TypedParts.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\System.Runtime.Caching.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\Try\BACKUP\Bookietry\Bookietry\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Try\BACKUP\Bookietry\Bookietry\obj\Debug\net5.0\Bookietry.csproj.AssemblyReference.cache
+F:\Try\BACKUP\Bookietry\Bookietry\obj\Debug\net5.0\Bookietry.GeneratedMSBuildEditorConfig.editorconfig
+F:\Try\BACKUP\Bookietry\Bookietry\obj\Debug\net5.0\Bookietry.AssemblyInfoInputs.cache
+F:\Try\BACKUP\Bookietry\Bookietry\obj\Debug\net5.0\Bookietry.AssemblyInfo.cs
+F:\Try\BACKUP\Bookietry\Bookietry\obj\Debug\net5.0\Bookietry.csproj.CoreCompileInputs.cache
+F:\Try\BACKUP\Bookietry\Bookietry\obj\Debug\net5.0\Bookietry.MvcApplicationPartsAssemblyInfo.cs
+F:\Try\BACKUP\Bookietry\Bookietry\obj\Debug\net5.0\Bookietry.MvcApplicationPartsAssemblyInfo.cache
+F:\Try\BACKUP\Bookietry\Bookietry\obj\Debug\net5.0\Bookietry.RazorAssemblyInfo.cache
+F:\Try\BACKUP\Bookietry\Bookietry\obj\Debug\net5.0\Bookietry.RazorAssemblyInfo.cs
+F:\Try\BACKUP\Bookietry\Bookietry\obj\Debug\net5.0\staticwebassets\Bookietry.StaticWebAssets.Manifest.cache
+F:\Try\BACKUP\Bookietry\Bookietry\obj\Debug\net5.0\staticwebassets\Bookietry.StaticWebAssets.xml
+F:\Try\BACKUP\Bookietry\Bookietry\obj\Debug\net5.0\scopedcss\bundle\Bookietry.styles.css
+F:\Try\BACKUP\Bookietry\Bookietry\obj\Debug\net5.0\Bookietry.TagHelpers.input.cache
+F:\Try\BACKUP\Bookietry\Bookietry\obj\Debug\net5.0\Bookietry.TagHelpers.output.cache
+F:\Try\BACKUP\Bookietry\Bookietry\obj\Debug\net5.0\Bookietry.RazorCoreGenerate.cache
+F:\Try\BACKUP\Bookietry\Bookietry\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+F:\Try\BACKUP\Bookietry\Bookietry\obj\Debug\net5.0\Razor\Views\BooksSellers\Create.cshtml.g.cs
+F:\Try\BACKUP\Bookietry\Bookietry\obj\Debug\net5.0\Razor\Views\BooksSellers\Delete.cshtml.g.cs
+F:\Try\BACKUP\Bookietry\Bookietry\obj\Debug\net5.0\Razor\Views\BooksSellers\Details.cshtml.g.cs
+F:\Try\BACKUP\Bookietry\Bookietry\obj\Debug\net5.0\Razor\Views\BooksSellers\Edit.cshtml.g.cs
+F:\Try\BACKUP\Bookietry\Bookietry\obj\Debug\net5.0\Razor\Views\BooksSellers\Index.cshtml.g.cs
+F:\Try\BACKUP\Bookietry\Bookietry\obj\Debug\net5.0\Razor\Views\Books\Create.cshtml.g.cs
+F:\Try\BACKUP\Bookietry\Bookietry\obj\Debug\net5.0\Razor\Views\Books\Delete.cshtml.g.cs
+F:\Try\BACKUP\Bookietry\Bookietry\obj\Debug\net5.0\Razor\Views\Books\Details.cshtml.g.cs
+F:\Try\BACKUP\Bookietry\Bookietry\obj\Debug\net5.0\Razor\Views\Books\Edit.cshtml.g.cs
+F:\Try\BACKUP\Bookietry\Bookietry\obj\Debug\net5.0\Razor\Views\Books\Index.cshtml.g.cs
+F:\Try\BACKUP\Bookietry\Bookietry\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+F:\Try\BACKUP\Bookietry\Bookietry\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+F:\Try\BACKUP\Bookietry\Bookietry\obj\Debug\net5.0\Razor\Views\Inventories\Create.cshtml.g.cs
+F:\Try\BACKUP\Bookietry\Bookietry\obj\Debug\net5.0\Razor\Views\Inventories\Delete.cshtml.g.cs
+F:\Try\BACKUP\Bookietry\Bookietry\obj\Debug\net5.0\Razor\Views\Inventories\Details.cshtml.g.cs
+F:\Try\BACKUP\Bookietry\Bookietry\obj\Debug\net5.0\Razor\Views\Inventories\Edit.cshtml.g.cs
+F:\Try\BACKUP\Bookietry\Bookietry\obj\Debug\net5.0\Razor\Views\Inventories\Index.cshtml.g.cs
+F:\Try\BACKUP\Bookietry\Bookietry\obj\Debug\net5.0\Razor\Views\Invoices\Create.cshtml.g.cs
+F:\Try\BACKUP\Bookietry\Bookietry\obj\Debug\net5.0\Razor\Views\Invoices\Delete.cshtml.g.cs
+F:\Try\BACKUP\Bookietry\Bookietry\obj\Debug\net5.0\Razor\Views\Invoices\Details.cshtml.g.cs
+F:\Try\BACKUP\Bookietry\Bookietry\obj\Debug\net5.0\Razor\Views\Invoices\Edit.cshtml.g.cs
+F:\Try\BACKUP\Bookietry\Bookietry\obj\Debug\net5.0\Razor\Views\Invoices\Index.cshtml.g.cs
+F:\Try\BACKUP\Bookietry\Bookietry\obj\Debug\net5.0\Razor\Views\Purchases\Create.cshtml.g.cs
+F:\Try\BACKUP\Bookietry\Bookietry\obj\Debug\net5.0\Razor\Views\Purchases\Delete.cshtml.g.cs
+F:\Try\BACKUP\Bookietry\Bookietry\obj\Debug\net5.0\Razor\Views\Purchases\Details.cshtml.g.cs
+F:\Try\BACKUP\Bookietry\Bookietry\obj\Debug\net5.0\Razor\Views\Purchases\Edit.cshtml.g.cs
+F:\Try\BACKUP\Bookietry\Bookietry\obj\Debug\net5.0\Razor\Views\Purchases\Index.cshtml.g.cs
+F:\Try\BACKUP\Bookietry\Bookietry\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+F:\Try\BACKUP\Bookietry\Bookietry\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\Try\BACKUP\Bookietry\Bookietry\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+F:\Try\BACKUP\Bookietry\Bookietry\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\Try\BACKUP\Bookietry\Bookietry\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+F:\Try\BACKUP\Bookietry\Bookietry\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+F:\Try\BACKUP\Bookietry\Bookietry\obj\Debug\net5.0\Bookietry.RazorTargetAssemblyInfo.cache
+F:\Try\BACKUP\Bookietry\Bookietry\obj\Debug\net5.0\Bookietry.RazorTargetAssemblyInfo.cs
+F:\Try\BACKUP\Bookietry\Bookietry\obj\Debug\net5.0\Bookietry.Views.pdb
+F:\Try\BACKUP\Bookietry\Bookietry\obj\Debug\net5.0\Bookietry.csproj.CopyComplete
+F:\Try\BACKUP\Bookietry\Bookietry\obj\Debug\net5.0\Bookietry.dll
+F:\Try\BACKUP\Bookietry\Bookietry\obj\Debug\net5.0\ref\Bookietry.dll
+F:\Try\BACKUP\Bookietry\Bookietry\obj\Debug\net5.0\Bookietry.pdb
+F:\Try\BACKUP\Bookietry\Bookietry\obj\Debug\net5.0\Bookietry.genruntimeconfig.cache
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\appsettings.Development.json
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\appsettings.json
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\Bookietry.StaticWebAssets.xml
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\Bookietry.exe
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\Bookietry.deps.json
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\Bookietry.runtimeconfig.json
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\Bookietry.runtimeconfig.dev.json
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\Bookietry.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\ref\Bookietry.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\Bookietry.pdb
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Server.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Web.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cors.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Features.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Identity.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Metadata.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Rewrite.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Session.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebSockets.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.CSharp.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Memory.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Json.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.Http.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Console.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Debug.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.ObjectPool.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.Primitives.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.WebEncoders.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.JSInterop.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Net.Http.Headers.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.VisualBasic.Core.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.VisualBasic.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Win32.Primitives.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Win32.Registry.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\mscorlib.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\netstandard.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.AppContext.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Buffers.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Collections.Concurrent.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Collections.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Collections.Immutable.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Collections.NonGeneric.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Collections.Specialized.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.ComponentModel.Annotations.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.ComponentModel.DataAnnotations.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.ComponentModel.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.ComponentModel.EventBasedAsync.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.ComponentModel.Primitives.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.ComponentModel.TypeConverter.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Configuration.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Console.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Core.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Data.Common.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Data.DataSetExtensions.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Data.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Diagnostics.Contracts.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Diagnostics.Debug.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Diagnostics.EventLog.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Diagnostics.FileVersionInfo.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Diagnostics.Process.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Diagnostics.StackTrace.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Diagnostics.Tools.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Diagnostics.TraceSource.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Diagnostics.Tracing.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Drawing.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Drawing.Primitives.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Dynamic.Runtime.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Formats.Asn1.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Globalization.Calendars.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Globalization.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Globalization.Extensions.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.IO.Compression.Brotli.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.IO.Compression.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.IO.Compression.FileSystem.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.IO.Compression.ZipFile.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.IO.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.IO.FileSystem.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.IO.FileSystem.DriveInfo.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.IO.FileSystem.Primitives.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.IO.FileSystem.Watcher.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.IO.IsolatedStorage.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.IO.MemoryMappedFiles.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.IO.Pipelines.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.IO.Pipes.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.IO.UnmanagedMemoryStream.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Linq.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Linq.Expressions.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Linq.Parallel.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Linq.Queryable.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Memory.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Net.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Net.Http.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Net.Http.Json.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Net.HttpListener.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Net.Mail.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Net.NameResolution.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Net.NetworkInformation.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Net.Ping.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Net.Primitives.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Net.Requests.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Net.Security.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Net.ServicePoint.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Net.Sockets.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Net.WebClient.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Net.WebHeaderCollection.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Net.WebProxy.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Net.WebSockets.Client.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Net.WebSockets.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Numerics.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Numerics.Vectors.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.ObjectModel.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Reflection.DispatchProxy.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Reflection.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Reflection.Emit.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Reflection.Emit.ILGeneration.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Reflection.Emit.Lightweight.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Reflection.Extensions.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Reflection.Metadata.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Reflection.Primitives.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Reflection.TypeExtensions.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Resources.Reader.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Resources.ResourceManager.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Resources.Writer.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.VisualC.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Runtime.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Runtime.Extensions.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Runtime.Handles.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Runtime.InteropServices.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Runtime.Intrinsics.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Runtime.Loader.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Runtime.Numerics.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Runtime.Serialization.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Runtime.Serialization.Formatters.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Runtime.Serialization.Json.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Runtime.Serialization.Primitives.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Runtime.Serialization.Xml.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Security.AccessControl.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Security.Claims.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Security.Cryptography.Algorithms.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Security.Cryptography.Cng.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Security.Cryptography.Csp.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Security.Cryptography.Encoding.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Security.Cryptography.Primitives.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Security.Cryptography.X509Certificates.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Security.Cryptography.Xml.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Security.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Security.Permissions.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Security.Principal.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Security.Principal.Windows.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Security.SecureString.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.ServiceModel.Web.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.ServiceProcess.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Text.Encoding.CodePages.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Text.Encoding.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Text.Encoding.Extensions.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Text.Encodings.Web.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Text.Json.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Text.RegularExpressions.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Threading.Channels.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Threading.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Threading.Overlapped.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Threading.Tasks.Dataflow.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Threading.Tasks.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Threading.Tasks.Extensions.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Threading.Tasks.Parallel.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Threading.Thread.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Threading.ThreadPool.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Threading.Timer.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Transactions.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Transactions.Local.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.ValueTuple.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Web.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Web.HttpUtility.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Windows.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Windows.Extensions.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Xml.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Xml.Linq.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Xml.ReaderWriter.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Xml.Serialization.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Xml.XDocument.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Xml.XmlDocument.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Xml.XmlSerializer.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Xml.XPath.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Xml.XPath.XDocument.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\refs\WindowsBase.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\Bookietry.Views.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\Bookietry.Views.pdb
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\Humanizer.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\Newtonsoft.Json.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\System.Composition.Convention.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\System.Composition.Hosting.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\System.Composition.Runtime.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\System.Composition.TypedParts.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\System.Runtime.Caching.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\obj\Debug\net5.0\Bookietry.csproj.AssemblyReference.cache
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\obj\Debug\net5.0\Bookietry.GeneratedMSBuildEditorConfig.editorconfig
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\obj\Debug\net5.0\Bookietry.AssemblyInfoInputs.cache
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\obj\Debug\net5.0\Bookietry.AssemblyInfo.cs
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\obj\Debug\net5.0\Bookietry.csproj.CoreCompileInputs.cache
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\obj\Debug\net5.0\Bookietry.MvcApplicationPartsAssemblyInfo.cs
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\obj\Debug\net5.0\Bookietry.MvcApplicationPartsAssemblyInfo.cache
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\obj\Debug\net5.0\Bookietry.RazorAssemblyInfo.cache
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\obj\Debug\net5.0\Bookietry.RazorAssemblyInfo.cs
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\obj\Debug\net5.0\staticwebassets\Bookietry.StaticWebAssets.Manifest.cache
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\obj\Debug\net5.0\staticwebassets\Bookietry.StaticWebAssets.xml
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\obj\Debug\net5.0\scopedcss\bundle\Bookietry.styles.css
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\obj\Debug\net5.0\Bookietry.TagHelpers.input.cache
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\obj\Debug\net5.0\Bookietry.TagHelpers.output.cache
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\obj\Debug\net5.0\Bookietry.RazorCoreGenerate.cache
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\obj\Debug\net5.0\Razor\Views\BooksSellers\Create.cshtml.g.cs
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\obj\Debug\net5.0\Razor\Views\BooksSellers\Delete.cshtml.g.cs
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\obj\Debug\net5.0\Razor\Views\BooksSellers\Details.cshtml.g.cs
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\obj\Debug\net5.0\Razor\Views\BooksSellers\Edit.cshtml.g.cs
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\obj\Debug\net5.0\Razor\Views\BooksSellers\Index.cshtml.g.cs
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\obj\Debug\net5.0\Razor\Views\Books\Create.cshtml.g.cs
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\obj\Debug\net5.0\Razor\Views\Books\Delete.cshtml.g.cs
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\obj\Debug\net5.0\Razor\Views\Books\Details.cshtml.g.cs
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\obj\Debug\net5.0\Razor\Views\Books\Edit.cshtml.g.cs
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\obj\Debug\net5.0\Razor\Views\Books\Index.cshtml.g.cs
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\obj\Debug\net5.0\Razor\Views\Inventories\Create.cshtml.g.cs
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\obj\Debug\net5.0\Razor\Views\Inventories\Delete.cshtml.g.cs
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\obj\Debug\net5.0\Razor\Views\Inventories\Details.cshtml.g.cs
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\obj\Debug\net5.0\Razor\Views\Inventories\Edit.cshtml.g.cs
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\obj\Debug\net5.0\Razor\Views\Inventories\Index.cshtml.g.cs
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\obj\Debug\net5.0\Razor\Views\Invoices\Create.cshtml.g.cs
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\obj\Debug\net5.0\Razor\Views\Invoices\Delete.cshtml.g.cs
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\obj\Debug\net5.0\Razor\Views\Invoices\Details.cshtml.g.cs
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\obj\Debug\net5.0\Razor\Views\Invoices\Edit.cshtml.g.cs
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\obj\Debug\net5.0\Razor\Views\Invoices\Index.cshtml.g.cs
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\obj\Debug\net5.0\Razor\Views\Purchases\Create.cshtml.g.cs
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\obj\Debug\net5.0\Razor\Views\Purchases\Delete.cshtml.g.cs
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\obj\Debug\net5.0\Razor\Views\Purchases\Details.cshtml.g.cs
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\obj\Debug\net5.0\Razor\Views\Purchases\Edit.cshtml.g.cs
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\obj\Debug\net5.0\Razor\Views\Purchases\Index.cshtml.g.cs
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\obj\Debug\net5.0\Bookietry.RazorTargetAssemblyInfo.cache
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\obj\Debug\net5.0\Bookietry.RazorTargetAssemblyInfo.cs
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\obj\Debug\net5.0\Bookietry.Views.pdb
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\obj\Debug\net5.0\Bookietry.csproj.CopyComplete
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\obj\Debug\net5.0\Bookietry.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\obj\Debug\net5.0\ref\Bookietry.dll
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\obj\Debug\net5.0\Bookietry.pdb
+F:\Final Internship\Updated on 10-11-22\Bookietry\Bookietry\obj\Debug\net5.0\Bookietry.genruntimeconfig.cache
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\appsettings.Development.json
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\appsettings.json
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\Bookietry.StaticWebAssets.xml
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\Bookietry.exe
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\Bookietry.deps.json
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\Bookietry.runtimeconfig.json
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\Bookietry.runtimeconfig.dev.json
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\Bookietry.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\ref\Bookietry.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\Bookietry.pdb
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Server.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Web.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cors.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Features.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Identity.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Metadata.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Rewrite.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Session.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebSockets.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.CSharp.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Memory.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Json.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.Http.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Console.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Debug.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.ObjectPool.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.Primitives.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Extensions.WebEncoders.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.JSInterop.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Net.Http.Headers.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.VisualBasic.Core.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.VisualBasic.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Win32.Primitives.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\Microsoft.Win32.Registry.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\mscorlib.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\netstandard.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.AppContext.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Buffers.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Collections.Concurrent.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Collections.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Collections.Immutable.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Collections.NonGeneric.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Collections.Specialized.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.ComponentModel.Annotations.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.ComponentModel.DataAnnotations.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.ComponentModel.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.ComponentModel.EventBasedAsync.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.ComponentModel.Primitives.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.ComponentModel.TypeConverter.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Configuration.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Console.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Core.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Data.Common.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Data.DataSetExtensions.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Data.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Diagnostics.Contracts.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Diagnostics.Debug.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Diagnostics.EventLog.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Diagnostics.FileVersionInfo.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Diagnostics.Process.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Diagnostics.StackTrace.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Diagnostics.Tools.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Diagnostics.TraceSource.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Diagnostics.Tracing.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Drawing.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Drawing.Primitives.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Dynamic.Runtime.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Formats.Asn1.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Globalization.Calendars.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Globalization.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Globalization.Extensions.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.IO.Compression.Brotli.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.IO.Compression.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.IO.Compression.FileSystem.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.IO.Compression.ZipFile.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.IO.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.IO.FileSystem.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.IO.FileSystem.DriveInfo.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.IO.FileSystem.Primitives.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.IO.FileSystem.Watcher.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.IO.IsolatedStorage.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.IO.MemoryMappedFiles.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.IO.Pipelines.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.IO.Pipes.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.IO.UnmanagedMemoryStream.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Linq.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Linq.Expressions.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Linq.Parallel.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Linq.Queryable.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Memory.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Net.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Net.Http.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Net.Http.Json.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Net.HttpListener.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Net.Mail.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Net.NameResolution.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Net.NetworkInformation.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Net.Ping.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Net.Primitives.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Net.Requests.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Net.Security.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Net.ServicePoint.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Net.Sockets.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Net.WebClient.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Net.WebHeaderCollection.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Net.WebProxy.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Net.WebSockets.Client.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Net.WebSockets.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Numerics.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Numerics.Vectors.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.ObjectModel.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Reflection.DispatchProxy.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Reflection.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Reflection.Emit.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Reflection.Emit.ILGeneration.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Reflection.Emit.Lightweight.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Reflection.Extensions.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Reflection.Metadata.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Reflection.Primitives.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Reflection.TypeExtensions.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Resources.Reader.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Resources.ResourceManager.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Resources.Writer.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.VisualC.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Runtime.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Runtime.Extensions.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Runtime.Handles.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Runtime.InteropServices.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Runtime.Intrinsics.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Runtime.Loader.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Runtime.Numerics.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Runtime.Serialization.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Runtime.Serialization.Formatters.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Runtime.Serialization.Json.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Runtime.Serialization.Primitives.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Runtime.Serialization.Xml.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Security.AccessControl.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Security.Claims.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Security.Cryptography.Algorithms.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Security.Cryptography.Cng.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Security.Cryptography.Csp.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Security.Cryptography.Encoding.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Security.Cryptography.Primitives.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Security.Cryptography.X509Certificates.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Security.Cryptography.Xml.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Security.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Security.Permissions.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Security.Principal.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Security.Principal.Windows.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Security.SecureString.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.ServiceModel.Web.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.ServiceProcess.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Text.Encoding.CodePages.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Text.Encoding.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Text.Encoding.Extensions.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Text.Encodings.Web.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Text.Json.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Text.RegularExpressions.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Threading.Channels.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Threading.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Threading.Overlapped.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Threading.Tasks.Dataflow.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Threading.Tasks.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Threading.Tasks.Extensions.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Threading.Tasks.Parallel.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Threading.Thread.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Threading.ThreadPool.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Threading.Timer.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Transactions.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Transactions.Local.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.ValueTuple.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Web.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Web.HttpUtility.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Windows.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Windows.Extensions.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Xml.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Xml.Linq.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Xml.ReaderWriter.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Xml.Serialization.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Xml.XDocument.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Xml.XmlDocument.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Xml.XmlSerializer.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Xml.XPath.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\System.Xml.XPath.XDocument.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\refs\WindowsBase.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\Bookietry.Views.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\Bookietry.Views.pdb
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\Humanizer.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\Newtonsoft.Json.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\System.Composition.Convention.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\System.Composition.Hosting.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\System.Composition.Runtime.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\System.Composition.TypedParts.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\System.Runtime.Caching.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\obj\Debug\net5.0\Bookietry.csproj.AssemblyReference.cache
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\obj\Debug\net5.0\Bookietry.GeneratedMSBuildEditorConfig.editorconfig
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\obj\Debug\net5.0\Bookietry.AssemblyInfoInputs.cache
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\obj\Debug\net5.0\Bookietry.AssemblyInfo.cs
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\obj\Debug\net5.0\Bookietry.csproj.CoreCompileInputs.cache
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\obj\Debug\net5.0\Bookietry.MvcApplicationPartsAssemblyInfo.cs
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\obj\Debug\net5.0\Bookietry.MvcApplicationPartsAssemblyInfo.cache
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\obj\Debug\net5.0\Bookietry.RazorAssemblyInfo.cache
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\obj\Debug\net5.0\Bookietry.RazorAssemblyInfo.cs
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\obj\Debug\net5.0\staticwebassets\Bookietry.StaticWebAssets.Manifest.cache
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\obj\Debug\net5.0\staticwebassets\Bookietry.StaticWebAssets.xml
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\obj\Debug\net5.0\scopedcss\bundle\Bookietry.styles.css
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\obj\Debug\net5.0\Bookietry.TagHelpers.input.cache
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\obj\Debug\net5.0\Bookietry.TagHelpers.output.cache
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\obj\Debug\net5.0\Bookietry.RazorCoreGenerate.cache
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\obj\Debug\net5.0\Razor\Views\BooksSellers\Create.cshtml.g.cs
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\obj\Debug\net5.0\Razor\Views\BooksSellers\Delete.cshtml.g.cs
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\obj\Debug\net5.0\Razor\Views\BooksSellers\Details.cshtml.g.cs
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\obj\Debug\net5.0\Razor\Views\BooksSellers\Edit.cshtml.g.cs
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\obj\Debug\net5.0\Razor\Views\BooksSellers\Index.cshtml.g.cs
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\obj\Debug\net5.0\Razor\Views\Books\Create.cshtml.g.cs
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\obj\Debug\net5.0\Razor\Views\Books\Delete.cshtml.g.cs
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\obj\Debug\net5.0\Razor\Views\Books\Details.cshtml.g.cs
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\obj\Debug\net5.0\Razor\Views\Books\Edit.cshtml.g.cs
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\obj\Debug\net5.0\Razor\Views\Books\Index.cshtml.g.cs
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\obj\Debug\net5.0\Razor\Views\Inventories\Create.cshtml.g.cs
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\obj\Debug\net5.0\Razor\Views\Inventories\Delete.cshtml.g.cs
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\obj\Debug\net5.0\Razor\Views\Inventories\Details.cshtml.g.cs
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\obj\Debug\net5.0\Razor\Views\Inventories\Edit.cshtml.g.cs
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\obj\Debug\net5.0\Razor\Views\Inventories\Index.cshtml.g.cs
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\obj\Debug\net5.0\Razor\Views\Invoices\Create.cshtml.g.cs
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\obj\Debug\net5.0\Razor\Views\Invoices\Delete.cshtml.g.cs
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\obj\Debug\net5.0\Razor\Views\Invoices\Details.cshtml.g.cs
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\obj\Debug\net5.0\Razor\Views\Invoices\Edit.cshtml.g.cs
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\obj\Debug\net5.0\Razor\Views\Invoices\Index.cshtml.g.cs
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\obj\Debug\net5.0\Razor\Views\Purchases\Create.cshtml.g.cs
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\obj\Debug\net5.0\Razor\Views\Purchases\Delete.cshtml.g.cs
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\obj\Debug\net5.0\Razor\Views\Purchases\Details.cshtml.g.cs
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\obj\Debug\net5.0\Razor\Views\Purchases\Edit.cshtml.g.cs
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\obj\Debug\net5.0\Razor\Views\Purchases\Index.cshtml.g.cs
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\obj\Debug\net5.0\Bookietry.RazorTargetAssemblyInfo.cache
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\obj\Debug\net5.0\Bookietry.RazorTargetAssemblyInfo.cs
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\obj\Debug\net5.0\Bookietry.Views.pdb
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\obj\Debug\net5.0\Bookietry.csproj.CopyComplete
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\obj\Debug\net5.0\Bookietry.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\obj\Debug\net5.0\ref\Bookietry.dll
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\obj\Debug\net5.0\Bookietry.pdb
+F:\Final Internship\updated on 9-01-23\Bookietry\Bookietry\obj\Debug\net5.0\Bookietry.genruntimeconfig.cache

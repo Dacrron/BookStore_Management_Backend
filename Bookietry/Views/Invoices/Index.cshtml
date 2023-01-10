@@ -1,0 +1,72 @@
+﻿@model IEnumerable<Bookietry.Models.Invoice>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table table-dark table-borderless table-hover">
+    <thead>
+        <tr>
+            @*<th>
+                @Html.DisplayNameFor(model => model.userID)
+            </th>*@
+            <th>
+                @*@Html.DisplayNameFor(model => model.forkey3)*@
+                Book Name
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.quantity)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.invoice_name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.invoice_phone)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.invoice_mail)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.invoice_address)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            @*<td>
+                @Html.DisplayFor(modelItem => item.userID)
+            </td>*@
+            <td>
+                @Html.DisplayFor(modelItem => item.forkey3.Book_name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.quantity)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.invoice_name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.invoice_phone)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.invoice_mail)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.invoice_address)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.invoice_id">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.invoice_id">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.invoice_id">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

@@ -1,0 +1,60 @@
+﻿@model Bookietry.Models.Invoice
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Invoice</h4>
+    <hr />
+    <dl class="row">
+        @*<dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.userID)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.userID)
+        </dd>*@
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Book_Id)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.forkey3.Book_name)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.quantity)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.quantity)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.invoice_name)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.invoice_name)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.invoice_phone)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.invoice_phone)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.invoice_mail)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.invoice_mail)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.invoice_address)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.invoice_address)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.invoice_id">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

@@ -1,0 +1,54 @@
+﻿@model Bookietry.Models.Purchase
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Purchase</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.forkey1.Seller_Name)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.forkey1.Seller_Name)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Book_name)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Book_name)
+        </dd>
+        @*<dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.forkey2)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.forkey2.Book_Id)
+        </dd>*@
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.purchase_quantity)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.purchase_quantity)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.purchase_date)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.purchase_date)
+        </dd>
+        @*<dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.purchase_cost)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.purchase_cost)
+        </dd>*@
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.purchase_id">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>
